@@ -15,7 +15,7 @@ Specific target/s?
 
 ### How are we going to measure success?
 
-### What are the resources we'll use to meet our goals for this quarter?
+### What resources will we use to meet our goals for this quarter?
 Technical tools:
 
 Processes:
