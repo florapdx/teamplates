@@ -16,9 +16,9 @@
     - [ ] OS/platform, language version, browser and browser version
     - [ ] Test case, if applicable
     - [ ] Feature you'd like to see added and why
-- [ ] Add a license! (MIT preferred)
+- [ ] Don't forget to add a license!
 - [ ] Market your project:
     - [ ] Add a demo site, Github pages page, or similar
-    - [ ] Tweet about your project (personal and company Twitters)
+    - [ ] Tweet about your project (personal and company Twitters, if applicable)
     - [ ] Present your project internally, if haven't already
     - [ ] Blog post? How you built the project and any issues you ran into
