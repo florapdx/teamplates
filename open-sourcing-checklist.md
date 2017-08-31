@@ -1,0 +1,24 @@
+## Checklist of todos before open-sourcing a package:
+
+- [ ] Make sure testing is set up, you have coverage of main interface(s), and all tests pass
+- [ ] Set up CI and add a build status badge, and if desired coverage badge and dependency badges. Add any base library support notes to the README (ie, "this supports React 15.0.0 and later")
+- [ ] Proof-read all documentation. Do the docs contain:
+    - [ ] Why the project was built in the first place?
+    - [ ] In what cases you would/would not want to use said project?
+    - [ ] How to configure the project, supported params, etc?
+- [ ] Have someone on the team install the packaged product to verify there aren't any issues with the packaging itself. Ideally, this person would also try to use the library in some minimal way to verify that docs are accurate, the interface is simple and flexible enough, etc.
+- [ ] Add contribution rules/notes either in the readme or in a `CONTRIBUTING.md` doc
+- [ ] Be clear about who the primary maintainer/responder will be when issues come in
+- [ ] Add an issue template, if so desired, to formalize issue submission. This might contain any of the following: 
+    - [ ] What you were trying to do
+    - [ ] Expected behavior
+    - [ ] Actual behavior
+    - [ ] OS/platform, language version, browser and browser version
+    - [ ] Test case, if applicable
+    - [ ] Feature you'd like to see added and why
+- [ ] Add a license! (MIT preferred)
+- [ ] Market your project:
+    - [ ] Add a demo site, Github pages page, or similar
+    - [ ] Tweet about your project (personal and company Twitters)
+    - [ ] Present your project internally, if haven't already
+    - [ ] Blog post? How you built the project and any issues you ran into
